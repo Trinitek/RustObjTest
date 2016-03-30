@@ -1,0 +1,6 @@
+[package]
+name = "RustObjTest"
+version = "0.1.0"
+authors = ["Blake Burgess <trinitek@live.com>"]
+
+[dependencies]
